@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,java,c,cs,ts,md,latex,mermaid&titles=true" alt="Skill Icons" title="Skill Icons">
+<img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,java,c,cs,ts,md,latex&titles=true" alt="Skill Icons" title="Skill Icons">
 
 <!--
 **Sleeeepppy/Sleeeepppy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
