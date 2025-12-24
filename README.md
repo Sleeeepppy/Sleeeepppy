@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sleeeepppy&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,java,c,cs,go,rust,js,ts,css,html,md,latex,regex,mermaid&titles=true" alt="Skill Icons" title="Skill Icons">
 
 <!--
 **Sleeeepppy/Sleeeepppy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
