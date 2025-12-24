@@ -9,7 +9,8 @@
   <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,java,c,cs,ts,md,latex&titles=true" alt="Skill Icons" title="Skill Icons">
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sleeeepppy)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sleeeepppy)]
+<!(https://github.com/anuraghazra/github-readme-stats)>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
