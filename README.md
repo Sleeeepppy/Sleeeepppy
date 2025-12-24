@@ -9,6 +9,12 @@
   <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,java,c,cs,ts,md,latex&titles=true" alt="Skill Icons" title="Skill Icons">
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sleeeepppy)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Don't%20give%20in,%20without%20a%20fight.&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
