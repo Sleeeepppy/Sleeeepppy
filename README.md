@@ -13,11 +13,13 @@
 <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-91-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-102-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 67 Bytes Used in GitHub's Storage 
+> 📦 68 Bytes Used in GitHub's Storage 
  > 
 > 🏆 34 Contributions in the Year 2025
  > 
@@ -79,7 +81,7 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 24/12/2025 16:42:19 UTC
+ Last Updated on 24/12/2025 18:48:40 UTC
 <!--END_SECTION:waka-->
 
 
