@@ -13,39 +13,37 @@
 <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-91-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 48 Bytes Used in GitHub's Storage 
+> 📦 67 Bytes Used in GitHub's Storage 
  > 
-> 🏆 32 Contributions in the Year 2025
+> 🏆 34 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 1 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                8 commits           ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+🌞 Morning                9 commits           ███████░░░░░░░░░░░░░░░░░░   28.12 % 
 🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                21 commits          ██████████████████░░░░░░░   72.41 % 
+🌃 Evening                23 commits          ██████████████████░░░░░░░   71.88 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  27 commits          ███████████████████████░░   93.10 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  29 commits          ███████████████████████░░   90.62 % 
+Wednesday                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Saturday                 2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -81,7 +79,7 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 24/12/2025 06:50:46 UTC
+ Last Updated on 24/12/2025 16:42:19 UTC
 <!--END_SECTION:waka-->
 
 
