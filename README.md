@@ -13,39 +13,39 @@
 <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-102-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-112-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 68 Bytes Used in GitHub's Storage 
+> 📦 69 Bytes Used in GitHub's Storage 
  > 
-> 🏆 34 Contributions in the Year 2025
+> 🏆 36 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 2 Public Repositories 
+> 📜 3 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                9 commits           ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+🌞 Morning                9 commits           ███████░░░░░░░░░░░░░░░░░░   26.47 % 
 🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                23 commits          ██████████████████░░░░░░░   71.88 % 
+🌃 Evening                25 commits          ██████████████████░░░░░░░   73.53 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  29 commits          ███████████████████████░░   90.62 % 
-Wednesday                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Tuesday                  29 commits          █████████████████████░░░░   85.29 % 
+Wednesday                3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Saturday                 2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -56,22 +56,22 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 12 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Sleeeepppy               12 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  12 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   1 repo              █████████████████████████   100.00 % 
+Python                   2 repos             █████████████████████████   100.00 % 
 ```
 
 
@@ -81,7 +81,7 @@ Python                   1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 24/12/2025 18:48:40 UTC
+ Last Updated on 25/12/2025 18:48:41 UTC
 <!--END_SECTION:waka-->
 
 
