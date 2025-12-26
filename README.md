@@ -13,13 +13,13 @@
 <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-112-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-116-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 69 Bytes Used in GitHub's Storage 
+> 📦 83 Bytes Used in GitHub's Storage 
  > 
 > 🏆 36 Contributions in the Year 2025
  > 
@@ -56,16 +56,21 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Markdown                 12 mins             █████████████████████████   100.00 % 
+Python                   1 hr 36 mins        █████████████████████░░░░   83.63 % 
+Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Git                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-Cursor                   12 mins             █████████████████████████   100.00 % 
+Cursor                   1 hr 55 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Sleeeepppy               12 mins             █████████████████████████   100.00 % 
+Sleeeepppy               1 hr 33 mins        ████████████████████░░░░░   80.68 % 
+Practice_of_DL           21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+LL                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +86,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 25/12/2025 18:48:41 UTC
+ Last Updated on 26/12/2025 18:48:12 UTC
 <!--END_SECTION:waka-->
 
 
