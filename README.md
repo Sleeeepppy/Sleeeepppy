@@ -13,6 +13,8 @@
 <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2012%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-144-blue)
 
 **🐱 My GitHub Data** 
@@ -27,6 +29,45 @@
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                9 commits           ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                27 commits          █████████████████░░░░░░░░   69.23 % 
+🌙 Night                  3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Tuesday                  29 commits          ███████████████████░░░░░░   74.36 % 
+Wednesday                3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Sunday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Los_Angeles
+
+💬 Programming Languages: 
+Python                   1 hr 30 mins        █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Cursor                   1 hr 30 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Practice_of_DL           1 hr 30 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 30 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -40,7 +81,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 18:47:32 UTC
+ Last Updated on 04/01/2026 18:47:44 UTC
 <!--END_SECTION:waka-->
 
 
