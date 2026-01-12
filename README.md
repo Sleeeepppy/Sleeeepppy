@@ -13,13 +13,13 @@
 <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2027%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 121 Bytes Used in GitHub's Storage 
+> 📦 122 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -56,17 +56,18 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   12 mins             ███████████████████████░░   90.23 % 
-Bash                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Python                   35 mins             ████████████████████████░   95.81 % 
+Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-Trae                     13 mins             █████████████████████████   100.00 % 
+Trae                     36 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LL                       13 mins             █████████████████████████   100.00 % 
+LL                       36 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+Windows                  36 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,7 +83,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 11/01/2026 18:48:01 UTC
+ Last Updated on 12/01/2026 18:53:19 UTC
 <!--END_SECTION:waka-->
 
 
