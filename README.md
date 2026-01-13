@@ -13,9 +13,9 @@
 <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2050%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -56,18 +56,19 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   35 mins             ████████████████████████░   95.81 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Python                   3 hrs 44 mins       ████████████████████████░   96.07 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-Trae                     36 mins             █████████████████████████   100.00 % 
+Trae                     3 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LL                       36 mins             █████████████████████████   100.00 % 
+LL                       3 hrs 53 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  36 mins             █████████████████████████   100.00 % 
+Windows                  3 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +84,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 12/01/2026 18:53:19 UTC
+ Last Updated on 13/01/2026 18:51:53 UTC
 <!--END_SECTION:waka-->
 
 
