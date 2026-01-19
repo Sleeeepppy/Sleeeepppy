@@ -13,13 +13,13 @@
 <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%201%20min-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 124 Bytes Used in GitHub's Storage 
+> 📦 111 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -56,18 +56,18 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   4 hrs 25 mins       ████████████████████████░   97.14 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Python                   5 hrs 29 mins       ████████████████████████░   97.74 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Trae                     4 hrs 33 mins       █████████████████████████   100.00 % 
+Trae                     5 hrs 36 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LL                       4 hrs 33 mins       █████████████████████████   100.00 % 
+LL                       5 hrs 36 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +83,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 18/01/2026 18:46:38 UTC
+ Last Updated on 19/01/2026 18:52:19 UTC
 <!--END_SECTION:waka-->
 
 
