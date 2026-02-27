@@ -56,16 +56,17 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   21 mins             ████████████████████████░   95.81 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Trae                     22 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+LL                       22 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +82,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 26/02/2026 19:12:39 UTC
+ Last Updated on 27/02/2026 19:06:24 UTC
 <!--END_SECTION:waka-->
 
 
