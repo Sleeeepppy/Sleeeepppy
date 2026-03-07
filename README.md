@@ -19,7 +19,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 127 Bytes Used in GitHub's Storage 
+> 📦 128 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -56,17 +56,18 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   26 mins             ███████████████░░░░░░░░░░   60.61 % 
-YAML                     17 mins             ██████████░░░░░░░░░░░░░░░   39.39 % 
+Python                   39 mins             █████████████████░░░░░░░░   68.90 % 
+YAML                     17 mins             ████████░░░░░░░░░░░░░░░░░   30.45 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🔥 Editors: 
-Trae                     44 mins             █████████████████████████   100.00 % 
+Trae                     57 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LL                       44 mins             █████████████████████████   100.00 % 
+LL                       57 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  44 mins             █████████████████████████   100.00 % 
+Windows                  57 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,7 +83,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 06/03/2026 19:06:39 UTC
+ Last Updated on 07/03/2026 18:53:08 UTC
 <!--END_SECTION:waka-->
 
 
