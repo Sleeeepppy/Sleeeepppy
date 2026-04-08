@@ -19,7 +19,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 138 Bytes Used in GitHub's Storage 
+> 📦 139 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -56,16 +56,18 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   58 mins             █████████████████░░░░░░░░   67.18 % 
+Other                    22 mins             ███████░░░░░░░░░░░░░░░░░░   26.01 % 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 27 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+LL                       1 hr 27 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +83,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 07/04/2026 19:35:01 UTC
+ Last Updated on 08/04/2026 19:44:45 UTC
 <!--END_SECTION:waka-->
 
 
