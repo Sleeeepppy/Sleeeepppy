@@ -13,13 +13,13 @@
 <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 140 Bytes Used in GitHub's Storage 
+> 📦 141 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -56,20 +56,20 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   2 hrs 52 mins       ██████████████░░░░░░░░░░░   56.74 % 
-Other                    1 hr 23 mins        ███████░░░░░░░░░░░░░░░░░░   27.41 % 
-Markdown                 34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Python                   4 hrs 18 mins       █████████████░░░░░░░░░░░░   51.51 % 
+Other                    2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   33.48 % 
+Markdown                 1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  8 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LL                       5 hrs 4 mins        █████████████████████████   100.00 % 
+LL                       8 hrs 21 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  8 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -85,7 +85,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 11/04/2026 19:08:23 UTC
+ Last Updated on 12/04/2026 19:10:44 UTC
 <!--END_SECTION:waka-->
 
 
