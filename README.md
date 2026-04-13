@@ -13,7 +13,7 @@
 <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -56,20 +56,20 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   4 hrs 18 mins       █████████████░░░░░░░░░░░░   51.51 % 
-Other                    2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   33.48 % 
-Markdown                 1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Python                   4 hrs 19 mins       █████████████░░░░░░░░░░░░   51.63 % 
+Other                    2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   33.40 % 
+Markdown                 1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
 YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LL                       8 hrs 21 mins       █████████████████████████   100.00 % 
+LL                       8 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -85,7 +85,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2026 19:10:44 UTC
+ Last Updated on 13/04/2026 19:45:07 UTC
 <!--END_SECTION:waka-->
 
 
