@@ -13,13 +13,13 @@
 <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 141 Bytes Used in GitHub's Storage 
+> 📦 142 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -56,20 +56,20 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   4 hrs 19 mins       █████████████░░░░░░░░░░░░   51.63 % 
-Other                    2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   33.40 % 
-Markdown                 1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Python                   4 hrs 28 mins       █████████████░░░░░░░░░░░░   52.49 % 
+Other                    2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   32.76 % 
+Markdown                 1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 22 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LL                       8 hrs 22 mins       █████████████████████████   100.00 % 
+LL                       8 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -85,7 +85,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 13/04/2026 19:45:07 UTC
+ Last Updated on 14/04/2026 19:46:30 UTC
 <!--END_SECTION:waka-->
 
 
