@@ -13,11 +13,13 @@
 <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%201%20min-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 143 Bytes Used in GitHub's Storage 
+> 📦 144 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -54,19 +56,19 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   2 hrs 10 mins       █████████████░░░░░░░░░░░░   50.31 % 
-Other                    1 hr 25 mins        ████████░░░░░░░░░░░░░░░░░   33.11 % 
-Markdown                 36 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Python                   45 mins             ██████████████████░░░░░░░   71.93 % 
+Markdown                 9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+YAML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 19 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LL                       4 hrs 19 mins       █████████████████████████   100.00 % 
+LL                       1 hr 2 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 19 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,7 +84,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 18/04/2026 19:11:57 UTC
+ Last Updated on 19/04/2026 19:11:55 UTC
 <!--END_SECTION:waka-->
 
 
