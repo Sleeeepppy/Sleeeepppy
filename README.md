@@ -56,19 +56,19 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   45 mins             ██████████████████░░░░░░░   71.93 % 
-Markdown                 9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-YAML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Python                   34 mins             █████████████████░░░░░░░░   66.06 % 
+Markdown                 9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+YAML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 🔥 Editors: 
-VS Code                  1 hr 2 mins         █████████████████████████   100.00 % 
+VS Code                  51 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LL                       1 hr 2 mins         █████████████████████████   100.00 % 
+LL                       51 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 2 mins         █████████████████████████   100.00 % 
+Windows                  51 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +84,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 19/04/2026 19:11:55 UTC
+ Last Updated on 20/04/2026 19:37:59 UTC
 <!--END_SECTION:waka-->
 
 
