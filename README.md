@@ -19,7 +19,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 144 Bytes Used in GitHub's Storage 
+> 📦 145 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -56,19 +56,19 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   34 mins             █████████████████░░░░░░░░   66.06 % 
-Markdown                 9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-YAML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Python                   24 mins             ███████████████░░░░░░░░░░   58.93 % 
+Markdown                 9 mins              ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+YAML                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 
 🔥 Editors: 
-VS Code                  51 mins             █████████████████████████   100.00 % 
+VS Code                  42 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LL                       51 mins             █████████████████████████   100.00 % 
+LL                       42 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  51 mins             █████████████████████████   100.00 % 
+Windows                  42 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +84,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 20/04/2026 19:37:59 UTC
+ Last Updated on 21/04/2026 19:42:59 UTC
 <!--END_SECTION:waka-->
 
 
