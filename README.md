@@ -13,8 +13,6 @@
 <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%207%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -29,45 +27,6 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                9 commits           ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                27 commits          █████████████████░░░░░░░░   69.23 % 
-🌙 Night                  3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Tuesday                  29 commits          ███████████████████░░░░░░   74.36 % 
-Wednesday                3 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Sunday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -81,7 +40,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2026 20:15:34 UTC
+ Last Updated on 22/05/2026 20:15:38 UTC
 <!--END_SECTION:waka-->
 
 
