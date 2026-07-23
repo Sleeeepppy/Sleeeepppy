@@ -13,8 +13,6 @@
 <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2011%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -56,16 +54,21 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 7 hrs 9 mins        ███████████████░░░░░░░░░░   60.95 % 
+Python                   2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
+Git Config               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              10 hrs 55 mins      ███████████████████████░░   93.04 % 
+Trae                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+LL                       11 hrs 44 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  11 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +84,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2026 19:50:14 UTC
+ Last Updated on 23/07/2026 19:51:59 UTC
 <!--END_SECTION:waka-->
 
 
