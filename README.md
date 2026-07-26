@@ -19,7 +19,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 213 Bytes Used in GitHub's Storage 
+> 📦 214 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -56,21 +56,21 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Markdown                 6 hrs 50 mins       ███████████████░░░░░░░░░░   61.28 % 
-Python                   2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Git Config               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Markdown                 6 hrs 35 mins       ████████████████░░░░░░░░░   64.56 % 
+Python                   1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+Git Config               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 47 mins      ████████████████████████░   96.76 % 
-Trae                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Claude Code              9 hrs 53 mins       ████████████████████████░   96.92 % 
+Trae                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 🐱‍💻 Projects: 
-LL                       11 hrs 9 mins       █████████████████████████   100.00 % 
+LL                       10 hrs 12 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -86,7 +86,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 19:39:37 UTC
+ Last Updated on 26/07/2026 19:40:49 UTC
 <!--END_SECTION:waka-->
 
 
