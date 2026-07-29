@@ -13,11 +13,15 @@
 <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-56%20hrs-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-44%20hrs%206%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 227 Bytes Used in GitHub's Storage 
+> 📦 228 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -54,46 +58,44 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   2 hrs 48 mins       ██████████████░░░░░░░░░░░   54.27 % 
-Markdown                 1 hr 46 mins        █████████░░░░░░░░░░░░░░░░   34.46 % 
-Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Python                   1 hr 54 mins        ██████████████████████░░░   89.89 % 
+JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 3 mins        ███████████████░░░░░░░░░░   59.32 % 
-Codex CLI                1 hr 43 mins        ████████░░░░░░░░░░░░░░░░░   33.58 % 
-Trae                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Codex CLI                1 hr 43 mins        ████████████████████░░░░░   81.80 % 
+Trae                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 🐱‍💻 Projects: 
-LL                       5 hrs 9 mins        █████████████████████████   100.00 % 
+LL                       2 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 1 min (97.38%)
+⏱ AI Coding Time: 1 hr 58 mins (93.61%)
 
-✍️ 1,478 lines written by AI, 1,285 lines written by hand (53.49% AI-written)
+✍️ 1,418 lines written by AI, 1,285 lines written by hand (52.46% AI-written)
 
-🔤 31,489,556 Input Tokens, 188,265 Output Tokens
+🔤 7,527,995 Input Tokens, 76,810 Output Tokens
 
-💵 $161.58 Estimated AI Cost This Week
+💵 $38.99 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 50 AI Prompts
+🧠 6 AI Sessions, 25 AI Prompts
 
-GPT                      1,420 lines         ████████████████████████░   95.95 % 
-Opus                     60 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+GPT                      1,420 lines         █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 53.49% of written lines came from AI
-📄 Detailed Prompter — average 768 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 46.49% of changed lines were hand-edited
+⚖️ Balanced with AI — 52.46% of written lines came from AI
+📄 Detailed Prompter — average 634 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 47.52% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -109,7 +111,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 19:57:16 UTC
+ Last Updated on 29/07/2026 19:49:46 UTC
 <!--END_SECTION:waka-->
 
 
