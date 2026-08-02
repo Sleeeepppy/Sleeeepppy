@@ -21,7 +21,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 230 Bytes Used in GitHub's Storage 
+> 📦 231 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -58,43 +58,43 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   4 hrs 32 mins       ████████████████████████░   94.60 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Python                   3 hrs 41 mins       ████████████████████████░   97.80 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🔥 Editors: 
-Codex CLI                4 hrs 15 mins       ██████████████████████░░░   88.70 % 
-Trae                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Claude Code              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+Codex CLI                3 hrs 31 mins       ███████████████████████░░   93.27 % 
+Trae                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🐱‍💻 Projects: 
-LL                       4 hrs 48 mins       █████████████████████████   100.00 % 
+LL                       3 hrs 46 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 48 mins (99.91%)
+⏱ AI Coding Time: 3 hrs 46 mins (99.88%)
 
-✍️ 2,325 lines written by AI, 22 lines written by hand (99.06% AI-written)
+✍️ 1,929 lines written by AI, 22 lines written by hand (98.87% AI-written)
 
-🔤 19,257,071 Input Tokens, 183,238 Output Tokens
+🔤 14,525,605 Input Tokens, 138,430 Output Tokens
 
-💵 $100.49 Estimated AI Cost This Week
+💵 $76.32 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 50 AI Prompts
+🧠 6 AI Sessions, 42 AI Prompts
 
-GPT                      2,369 lines         █████████████████████████   100.00 % 
+GPT                      1,963 lines         █████████████████████████   100.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.06% of written lines came from AI
-📝 Concise Prompter — average 474 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.96% of changed lines were hand-edited
+🤖 AI-Driven — 98.87% of written lines came from AI
+📝 Concise Prompter — average 406 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 1.16% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -110,7 +110,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 19:39:59 UTC
+ Last Updated on 02/08/2026 19:39:39 UTC
 <!--END_SECTION:waka-->
 
 
