@@ -21,7 +21,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 231 Bytes Used in GitHub's Storage 
+> 📦 232 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -58,43 +58,22 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   3 hrs 41 mins       ████████████████████████░   97.80 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex CLI                3 hrs 31 mins       ███████████████████████░░   93.27 % 
-Trae                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Codex CLI                0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LL                       3 hrs 46 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 46 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 46 mins (99.88%)
-
-✍️ 1,929 lines written by AI, 22 lines written by hand (98.87% AI-written)
-
-🔤 14,525,605 Input Tokens, 138,430 Output Tokens
-
-💵 $76.32 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 42 AI Prompts
-
-GPT                      1,963 lines         █████████████████████████   100.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.87% of written lines came from AI
-📝 Concise Prompter — average 406 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 1.16% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -110,7 +89,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 19:39:39 UTC
+ Last Updated on 04/08/2026 20:04:41 UTC
 <!--END_SECTION:waka-->
 
 
