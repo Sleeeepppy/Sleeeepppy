@@ -21,7 +21,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 235 Bytes Used in GitHub's Storage 
+> 📦 236 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -58,39 +58,38 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Markdown                 22 mins             █████████████████████████   100.00 % 
+Python                   28 mins             █████████████░░░░░░░░░░░░   53.47 % 
+Markdown                 24 mins             ████████████░░░░░░░░░░░░░   46.53 % 
 
 🔥 Editors: 
-Claude Code              22 mins             █████████████████████████   99.14 % 
-Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Claude Code              52 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LL                       22 mins             █████████████████████████   100.00 % 
+LL                       52 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.00 % 
+Windows                  52 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 mins (100.0%)
+⏱ AI Coding Time: 52 mins (100.0%)
 
-✍️ 87 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 326 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 203,664 Input Tokens, 1,440 Output Tokens
+🔤 710,697 Input Tokens, 20,898 Output Tokens
 
-💵 $5.57 Estimated AI Cost This Week
+💵 $4.08 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 1 AI Sessions, 5 AI Prompts
 
-Opus                     87 lines            ███████████████████░░░░░░   75.00 % 
-GPT                      29 lines            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Opus                     326 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,321 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📚 Verbose Prompter — average 4,310 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -107,7 +106,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 19:31:55 UTC
+ Last Updated on 13/08/2026 19:30:54 UTC
 <!--END_SECTION:waka-->
 
 
