@@ -58,44 +58,44 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Markdown                 1 hr 23 mins        █████████████░░░░░░░░░░░░   50.10 % 
-Text                     37 mins             ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-Python                   20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Bash                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Markdown                 2 hrs 10 mins       █████████████░░░░░░░░░░░░   50.58 % 
+Bash                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Python                   38 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Text                     37 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 44 mins       █████████████████████████   98.42 % 
-Trae                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Claude Code              4 hrs 1 min         ███████████████████████░░   93.45 % 
+Trae                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
 
 🐱‍💻 Projects: 
-LL                       2 hrs 47 mins       █████████████████████████   100.00 % 
+LL                       4 hrs 18 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 47 mins (100.0%)
+⏱ AI Coding Time: 4 hrs 18 mins (100.0%)
 
-✍️ 1,242 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,175 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,351,548 Input Tokens, 39,887 Output Tokens
+🔤 1,755,982 Input Tokens, 60,255 Output Tokens
 
-💵 $11.27 Estimated AI Cost This Week
+💵 $14.48 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 10 AI Prompts
+🧠 10 AI Sessions, 46 AI Prompts
 
-Opus                     1,279 lines         █████████████████████████   100.00 % 
+Opus                     1,212 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 179 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📄 Detailed Prompter — average 982 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -112,7 +112,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 18:51:25 UTC
+ Last Updated on 17/08/2026 19:04:22 UTC
 <!--END_SECTION:waka-->
 
 
