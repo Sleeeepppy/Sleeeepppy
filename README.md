@@ -21,7 +21,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 241 Bytes Used in GitHub's Storage 
+> 📦 226 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -86,7 +86,7 @@ Windows                  1 hr 34 mins        ███████████�
 
 🧠 7 AI Sessions, 38 AI Prompts
 
-Opus                     113 lines           █████████████████████████   100.00 % 
+Opus                     218 lines           █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
@@ -109,7 +109,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 18:53:17 UTC
+ Last Updated on 23/08/2026 18:53:09 UTC
 <!--END_SECTION:waka-->
 
 
