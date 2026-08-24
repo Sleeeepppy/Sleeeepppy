@@ -21,7 +21,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 226 Bytes Used in GitHub's Storage 
+> 📦 227 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -58,42 +58,22 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Markdown                 50 mins             █████████████░░░░░░░░░░░░   53.42 % 
-Bash                     26 mins             ███████░░░░░░░░░░░░░░░░░░   27.60 % 
-Python                   17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              1 hr 19 mins        █████████████████████░░░░   84.21 % 
-Trae                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-LL                       1 hr 34 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 34 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 34 mins (100.0%)
-
-✍️ 218 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 488,534 Input Tokens, 21,922 Output Tokens
-
-💵 $3.60 Estimated AI Cost This Week
-
-🧠 7 AI Sessions, 38 AI Prompts
-
-Opus                     218 lines           █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,146 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -109,7 +89,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 18:53:09 UTC
+ Last Updated on 24/08/2026 19:06:48 UTC
 <!--END_SECTION:waka-->
 
 
