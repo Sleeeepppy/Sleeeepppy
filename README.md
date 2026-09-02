@@ -58,43 +58,42 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Markdown                 1 hr 57 mins        █████████░░░░░░░░░░░░░░░░   36.02 % 
-Python                   1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   29.57 % 
-Bash                     1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-Text                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-Vue                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Markdown                 1 hr 54 mins        ██████████████░░░░░░░░░░░   56.29 % 
+Bash                     49 mins             ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+YAML                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Python                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 20 mins       █████████████████████████   98.53 % 
-Trae                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Claude Code              3 hrs 19 mins       █████████████████████████   98.23 % 
+Trae                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🐱‍💻 Projects: 
-LL                       5 hrs 21 mins       █████████████████████████   98.60 % 
-_gitlab_sync             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+LL                       3 hrs 23 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 25 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 23 mins (100.0%)
 
-✍️ 2,580 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,867 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,075,362 Input Tokens, 185,611 Output Tokens
+🔤 1,415,472 Input Tokens, 261,300 Output Tokens
 
-💵 $34.08 Estimated AI Cost This Week
+💵 $28.28 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 49 AI Prompts
+🧠 2 AI Sessions, 37 AI Prompts
 
-Opus                     2,593 lines         █████████████████████████   100.00 % 
+Opus                     1,868 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,523 characters per prompt
-🔁 Iterative Prompter — average 24 prompts per session
+📚 Verbose Prompter — average 4,987 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -111,7 +110,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 21:09:28 UTC
+ Last Updated on 02/09/2026 21:09:21 UTC
 <!--END_SECTION:waka-->
 
 
