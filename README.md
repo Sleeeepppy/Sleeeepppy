@@ -21,7 +21,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 235 Bytes Used in GitHub's Storage 
+> 📦 236 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -58,41 +58,41 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Markdown                 1 hr 46 mins        ██████████████████░░░░░░░   73.17 % 
-Bash                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-Python                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Markdown                 52 mins             ███████████████░░░░░░░░░░   60.75 % 
+Bash                     21 mins             ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+Python                   11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 25 mins       █████████████████████████   100.00 % 
+Claude Code              1 hr 27 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LL                       2 hrs 25 mins       █████████████████████████   100.00 % 
+LL                       1 hr 27 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 25 mins (100.0%)
+⏱ AI Coding Time: 1 hr 27 mins (100.0%)
 
-✍️ 2,290 lines written by AI, 1 lines written by hand (99.96% AI-written)
+✍️ 1,676 lines written by AI, 1 lines written by hand (99.94% AI-written)
 
-🔤 736,572 Input Tokens, 94,858 Output Tokens
+🔤 474,135 Input Tokens, 57,134 Output Tokens
 
-💵 $16.66 Estimated AI Cost This Week
+💵 $6.53 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 30 AI Prompts
+🧠 1 AI Sessions, 19 AI Prompts
 
-Opus                     2,496 lines         █████████████████████████   100.00 % 
+Opus                     1,677 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 2,437 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🤖 AI-Driven — 99.94% of written lines came from AI
+📚 Verbose Prompter — average 2,404 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -108,7 +108,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 21:01:03 UTC
+ Last Updated on 10/09/2026 21:00:03 UTC
 <!--END_SECTION:waka-->
 
 
