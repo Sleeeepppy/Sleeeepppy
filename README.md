@@ -58,41 +58,22 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Markdown                 52 mins             ███████████████░░░░░░░░░░   60.75 % 
-Bash                     21 mins             ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
-Python                   11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              1 hr 27 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-LL                       1 hr 27 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 27 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 27 mins (100.0%)
-
-✍️ 1,676 lines written by AI, 1 lines written by hand (99.94% AI-written)
-
-🔤 474,135 Input Tokens, 57,134 Output Tokens
-
-💵 $6.53 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 19 AI Prompts
-
-Opus                     1,677 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📚 Verbose Prompter — average 2,404 characters per prompt
-🔁 Iterative Prompter — average 19 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -108,7 +89,7 @@ Python                   2 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 21:00:03 UTC
+ Last Updated on 11/09/2026 21:04:49 UTC
 <!--END_SECTION:waka-->
 
 
