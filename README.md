@@ -58,45 +58,45 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   8 hrs 59 mins       █████████████████░░░░░░░░   66.02 % 
-Markdown                 2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
-Bash                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Python                   8 hrs 55 mins       █████████████████░░░░░░░░   67.87 % 
+Markdown                 2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 27 mins      ███████████████████████░░   91.45 % 
-Trae                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Codex Vscode             15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Claude Code              11 hrs 58 mins      ███████████████████████░░   91.13 % 
+Trae                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Codex Vscode             15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🐱‍💻 Projects: 
-LL                       13 hrs 37 mins      █████████████████████████   100.00 % 
+LL                       13 hrs 8 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  13 hrs 37 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 42 mins (93.34%)
+⏱ AI Coding Time: 12 hrs 14 mins (93.1%)
 
-✍️ 3,626 lines written by AI, 34 lines written by hand (99.07% AI-written)
+✍️ 3,510 lines written by AI, 34 lines written by hand (99.04% AI-written)
 
-🔤 5,101,065 Input Tokens, 488,193 Output Tokens
+🔤 4,919,383 Input Tokens, 470,599 Output Tokens
 
-💵 $68.69 Estimated AI Cost This Week
+💵 $66.56 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 120 AI Prompts
+🧠 21 AI Sessions, 114 AI Prompts
 
-Opus                     3,433 lines         ███████████████████████░░   91.18 % 
-GPT                      332 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Opus                     3,317 lines         ███████████████████████░░   90.90 % 
+GPT                      332 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.07% of written lines came from AI
-📚 Verbose Prompter — average 2,255 characters per prompt
+🤖 AI-Driven — 99.04% of written lines came from AI
+📚 Verbose Prompter — average 2,298 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.52% of changed lines were hand-edited
+🚀 High AI Trust — 1.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -112,7 +112,7 @@ Python                   3 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 22:45:59 UTC
+ Last Updated on 10/10/2026 21:53:10 UTC
 <!--END_SECTION:waka-->
 
 
