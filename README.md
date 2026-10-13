@@ -21,7 +21,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 436 Bytes Used in GitHub's Storage 
+> 📦 437 Bytes Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -58,45 +58,45 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Python                   7 hrs 1 min         ███████████████████░░░░░░   75.99 % 
-Markdown                 1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-Text                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Python                   3 hrs 17 mins       ████████████████░░░░░░░░░   64.36 % 
+Markdown                 49 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+YAML                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Text                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 5 mins        ██████████████████████░░░   87.41 % 
-Trae                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Codex Vscode             15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Claude Code              3 hrs 57 mins       ███████████████████░░░░░░   77.26 % 
+Trae                     54 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+Codex Vscode             15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
 
 🐱‍💻 Projects: 
-LL                       9 hrs 15 mins       █████████████████████████   100.00 % 
+LL                       5 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 15 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 20 mins (90.2%)
+⏱ AI Coding Time: 4 hrs 12 mins (82.3%)
 
-✍️ 1,305 lines written by AI, 34 lines written by hand (97.46% AI-written)
+✍️ 1,141 lines written by AI, 34 lines written by hand (97.11% AI-written)
 
-🔤 3,360,721 Input Tokens, 289,229 Output Tokens
+🔤 1,880,995 Input Tokens, 173,159 Output Tokens
 
-💵 $40.95 Estimated AI Cost This Week
+💵 $27.34 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 79 AI Prompts
+🧠 9 AI Sessions, 39 AI Prompts
 
-Opus                     1,109 lines         ███████████████████░░░░░░   76.96 % 
-GPT                      332 lines           ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
+Opus                     932 lines           ██████████████████░░░░░░░   73.73 % 
+GPT                      332 lines           ███████░░░░░░░░░░░░░░░░░░   26.27 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.46% of written lines came from AI
-📚 Verbose Prompter — average 1,788 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 3.87% of changed lines were hand-edited
+🤖 AI-Driven — 97.11% of written lines came from AI
+📝 Concise Prompter — average 328 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 4.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -112,7 +112,7 @@ Python                   3 repos             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sleeeepppy/Sleeeepppy/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 22:09:38 UTC
+ Last Updated on 13/10/2026 00:51:54 UTC
 <!--END_SECTION:waka-->
 
 
